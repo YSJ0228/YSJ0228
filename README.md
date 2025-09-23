@@ -5,9 +5,10 @@
 
 <div align="center">
 
-## 🎓 Full-Stack Developer
-**React · Node.js · Express · PostgreSQL**  
-**프론트엔드와 백엔드를 아우르는 웹 서비스 개발 경험 보유**
+## 🎨 Frontend Developer
+**TypeScript · React · Next.js · JavaScript**  
+**항상 사용자를 고려한 UI/UX를 구현하고 웹 퍼포먼스를 최적화하는 프론트엔드 개발자입니다.**
+
 
 </div>
 
