@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b0f,100:38ef7d&height=200&section=header&text=☺︎%20Yun%20SeJun%20☺︎&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f9b0f,100:38ef7d&height=200&section=header&text=SeJun's%20GitHub&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <div align="center">
 
