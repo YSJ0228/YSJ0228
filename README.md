@@ -61,19 +61,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSJ0228&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
 </div>
 
----
 
-## 🔥 Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YSJ0228&theme=tokyonight&hide_border=true&ring=00c6ff&fire=0072ff&background=0d1117"/>
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YSJ0228&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
 
 ---
 
