@@ -4,6 +4,7 @@
 
 <div align="center">
 
+
 ## 🎨 Frontend Developer
 **TypeScript · React · Next.js · JavaScript**  
  항상 사용자를 고려한 **UI/UX 구현**과 **웹 퍼포먼스 최적화**를 지향하는 프론트엔드 개발자입니다.
@@ -66,9 +67,16 @@
 ---
 
 ## 📈 Contribution Summary
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YSJ0228&theme=tokyonight"/>
-</p>
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=YSJ0228&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/YSJ0228"
+      width="600"
+      height="300"
+    />
+  </a>
+</div>
+
 
 ---
 
