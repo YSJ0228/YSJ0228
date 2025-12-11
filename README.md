@@ -56,16 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YSJ0228&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YSJ0228&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160"/>
-</div>
-
-
-
----
-
 ## 📈 Contribution Summary
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=YSJ0228&utm_content=farm">
@@ -79,7 +69,7 @@
 
 ## 🧊 3D Contribution Graph  
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="600" />
+   <img src="./profile-3d-contrib/profile-night-green.svg" width="600" />
 </div>
 
 
